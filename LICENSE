@@ -1,4 +1,10 @@
-                    GNU GENERAL PUBLIC LICENSE
+NB: This software is derived from sample code from the matplotlib website (https://matplotlib.org/stable/gallery/animation/strip_chart.html). To comply with the licensing agreement for matplotlib (https://matplotlib.org/stable/project/license.html), I include the following information:
+
+"Copyright (c) 2012- Matplotlib Development Team; All Rights Reserved"
+
+Changes were made to the original sample code to change the oscilloscope output from random to instead be based on the Goldman-Hodgkin-Katz (GHK) equation used in electrophysiology, with parameters for the equation interactively entered by a user via sliders. The code was modified with help from ChatGPT 3.5. Code is copyright (c) 2024- Mike Chao under the GNU General Public License, the text of which is reproduced below. 
+
+                      GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
